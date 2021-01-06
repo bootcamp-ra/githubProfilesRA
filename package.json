@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/bootcamp-ra/githubProfilesRA#readme",
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.21.1"
   }
 }
